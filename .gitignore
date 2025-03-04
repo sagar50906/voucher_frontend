@@ -1,0 +1,45 @@
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore node modules
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Ignore Python files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+venv/
+
+# Ignore environment files
+.env
+*.env
+
+# Ignore build artifacts
+dist/
+build/
+*.log
+
+# Ignore editor-specific files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Ignore compiled files
+*.class
+*.o
+*.out
+*.exe
+
+# Ignore database files
+*.sqlite
+*.db
+
+# Ignore archive files
+*.zip
+*.tar.gz
+*.rar
